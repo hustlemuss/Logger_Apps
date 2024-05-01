@@ -1,0 +1,4 @@
+2024-04-27 20:25:50.730181 Function: hello_world Args: (), Kwargs: {} Return value: Hello World
+2024-04-27 20:25:50.731181 Function: summator Args: (2, 2), Kwargs: {} Return value: 4
+2024-04-27 20:25:50.731181 Function: div Args: (6, 2), Kwargs: {} Return value: 3.0
+2024-04-27 20:25:50.731181 Function: summator Args: (4.3,), Kwargs: {'b': 2.2} Return value: 6.5
